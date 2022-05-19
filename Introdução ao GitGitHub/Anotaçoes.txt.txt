@@ -1,0 +1,6 @@
+Link Download do Git https://git-scm.com/download/win
+O GIT é consideravelmente simples de usar. Para começar,
+você pode criar um repositório ou conferir um já existente.
+Após a instalação, um simples git-init irá deixar tudo pronto.
+Da mesma maneira, o comando git clone pode criar uma cópia de
+um repositório local para um usuário.
